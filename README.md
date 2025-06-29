@@ -7,7 +7,7 @@
 <div align="center">
   <strong>👨‍💻 Backend Developer focused on Java & Spring Boot</strong><br/>
   ⚙️ Microservices | Clean Architecture | SOLID Principles<br/>
-  🐧 Fedora Linux — main development environment
+  🐧 Fedora KDE — main development environment
   
   <strong>🌐 Full Stack Explorer</strong> — building complete solutions when needed<br/><br/>
   🎓 Software Engineering student<br/>
