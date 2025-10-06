@@ -10,7 +10,7 @@
 ⚙️ Microservices | Clean Architecture | SOLID Principles  
 🐧 Fedora KDE as my main development environment  
 
-🌐 Occasionally building frontends with **SvelteKit** to complement backend services  
+🌐 Occasionally building frontends to complement backend services  
 
 🎓 Software Engineering Student  
 🌎 Based in Mexico  |  📬 <a href="mailto:f.cornejo.pacheco@gmail.com">f.cornejo.pacheco@gmail.com</a>
