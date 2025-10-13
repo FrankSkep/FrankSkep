@@ -2,7 +2,7 @@
 
 ## Frank — Developer
 
-💻 Focused on clean and reliable backend development.  
+💻 Focused on backend development.  
 
 🐧 Fedora KDE as my main environment  
 
