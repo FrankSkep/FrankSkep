@@ -2,8 +2,6 @@
 
 ## Frank — Developer
 
-💻 Focused on backend development.  
-
 🐧 Fedora KDE as my main environment  
 
 🎓 Software Engineering Student | 🇲🇽 Mexico  
