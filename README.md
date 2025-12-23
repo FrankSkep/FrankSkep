@@ -2,7 +2,7 @@
 
 ## Frank — Backend Developer
 
-🐧 Linux · KDE Plasma (Fedora - openSUSE)  
+🐧 Linux · KDE Plasma · Fedora  
 🎓 Software Engineering Student | 🇲🇽 Mexico  
 📬 <a href="mailto:f.cornejo.pacheco@gmail.com">Email</a>
 
