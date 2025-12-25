@@ -2,13 +2,13 @@
 
 ## Frank — Backend Developer
 
-🐧 Linux · KDE Plasma · Fedora  
-🎓 Software Engineering Student | 🇲🇽 Mexico  
+Linux · KDE Plasma · Fedora  
+Software Engineering Student | Mexico  
 📬 <a href="mailto:f.cornejo.pacheco@gmail.com">Email</a>
 
 </div>
 
-<div align="center">
+---
 
 ## Technologies
 
@@ -16,6 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
@@ -30,4 +31,24 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-</div>
+---
+
+## Architecture & Patterns
+
+- Layered Architecture (Controller · Service · Domain · Repository)
+- RESTful API design
+- Microservices architecture using Spring Cloud (Gateway, Eureka, Config Server)
+- Inter-service communication via OpenFeign
+- DTO-based data transfer to decouple layers
+- Centralized validation and exception handling
+- SOLID principles and Clean Code practices
+
+---
+
+## Focus
+
+Backend development with Java and Spring Boot, focused on:
+- Designing maintainable and modular architectures
+- Applying layered architecture and proper responsibility separation
+- Building secure APIs using JWT-based authentication and RBAC
+- Writing clean, readable code with an emphasis on refactoring
