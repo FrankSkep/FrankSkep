@@ -22,7 +22,7 @@ Software Engineering Student | Mexico
 ## Featured Projects
 
 ### [Fixium](https://github.com/FrankSkep/fixium-system) — Multi-tenant Workshop Management System
-**Spring Boot · PostgreSQL · AWS Rekognition · Cloudinary · QwenAI · SvelteKit · FastAPI**
+**Java 21 · Spring Boot 3 · PostgreSQL · AWS Rekognition · Cloudinary · QwenAI · SvelteKit · FastAPI**
 - Multi-tenant architecture with strict data isolation per workshop
 - Facial recognition authentication for technicians using AWS Rekognition
 - AI-powered technical chatbot to assist with diagnostics and issue resolution
@@ -32,7 +32,7 @@ Software Engineering Student | Mexico
 - Media file management with Cloudinary integration
 
 ### [Jobsy](https://github.com/FrankSkep/jobsy-rest-api) — Local Services Marketplace
-**Spring Boot · PostgreSQL · Cloudinary · React**
+**Java 21 · Spring Boot 4 · PostgreSQL · Cloudinary · React**
 - Provider verification system with document validation and admin approval
 - Real-time messaging via WebSockets and automated email notifications
 - Booking system with reviews and ratings per provider/service
@@ -40,7 +40,7 @@ Software Engineering Student | Mexico
 - Media file management with Cloudinary integration
 
 ### [Order Management Microservices](https://github.com/FrankSkep/orders-microservices)
-**Spring Boot · Spring Cloud · PostgreSQL**
+**Java 21 · Spring Boot 3 · Spring Cloud · PostgreSQL**
 - Microservices architecture with API Gateway, Config Server, and Eureka Discovery
 - Inter-service communication using OpenFeign
 - Centralized JWT authentication through Gateway with per-service JWT filters
